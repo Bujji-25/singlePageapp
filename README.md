@@ -1,2 +1,0 @@
-# singlePageapp
-my info
